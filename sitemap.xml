@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://stockview.vn/</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/index.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/stat.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/iboard.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/basic_chart.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/chart.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/contact.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/login.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/sector.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stockview.vn/quote.php</loc>
+  <lastmod>2025-12-26T04:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
